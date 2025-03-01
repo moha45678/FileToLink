@@ -23,7 +23,7 @@ else:
 URL = environ.get("URL", "")
 
 # Admins, Channels & Users
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002338393108'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002250791635'))
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5912997435').split()]
 
 # MongoDB information

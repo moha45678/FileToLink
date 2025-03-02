@@ -17,7 +17,7 @@ Nᴀᴍᴇ - {}"""
     RESTART_TXT = """
 <b>mr8 !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>mr6/mr7</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>vmr8 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+روز : <code>{}</code>
+ساعت : <code>{}</code>
+منطقه : <code>mr6/mr7</code>
+ساخت موفق: <code>vmr9 [موفق ]</code></b>"""

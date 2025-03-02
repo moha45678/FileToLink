@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @mr3
+# Subscribe YouTube Channel For Amazing Bot @mr4
+# Ask Doubt on telegram @mr5
 
 
 class script(object):
@@ -15,9 +15,9 @@ ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
     
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>mr8 !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>mr6/mr7</code>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>vmr8 [ Sᴛᴀʙʟᴇ ]</code></b>"""

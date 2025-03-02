@@ -29,7 +29,7 @@ from datetime import date, datetime
 from aiohttp import web
 from plugins import web_server
 
-from mr23.bot import mr24Bot
+from mr27.bot import mr24Bot
 from mr25.util.keepalive import ping_server
 from mr26.bot.clients import initialize_clients
 

@@ -4,11 +4,11 @@
 
 
 class script(object):
-    START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
+    START_TXT = """<b>mr11 {} mr10 <a href=https://t.me/{}>{}</a>
     
-✏️ I Am A Advance File Stream Bot With Multiple Player Support And Url Shortner. Best Ui Performance.
+mr12
 
-Now Send Me A Media To See Magic ✨</b>"""
+mr13</b>"""
 
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>

@@ -4,7 +4,7 @@ from os import environ
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = environ.get('SESSION', 'TechVJBot')
+SESSION = environ.get('SESSION', 'mr1Bot')
 API_ID = int(environ.get('API_ID', '22678151'))
 API_HASH = environ.get('API_HASH', '400de4b56743823d94f6a02b35113348')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
